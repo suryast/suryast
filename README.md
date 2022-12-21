@@ -12,8 +12,19 @@ const 僕: suryast = {
     backend: [
       'Node', 'Express', 'TypeScript',
       'Kotlin/Java JVM', 'Springboot', 'Rails',
-      'RabbitMQ', 'Postgres', 'MongoDB', 'AWS'
-    ]
+      'OpenAPI', 'Microservices',
+      'RabbitMQ', 'Postgres', 'MongoDB', 'Redis'
+    ],
+    ops: [
+      'Gitlab CI', 'Docker', 'Rancher', 'AWS',
+      'Kong', 'Datadog', 'Sumologic'
+    ],
+    methodologies: [
+      'TDD', 'Kanban', 'XP'
+    ],
+    metrics: [
+      'Hotjar', 'Fullstory', 'Mixpanel'
+    ] 
   }
 }
 ```
