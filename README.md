@@ -1,8 +1,5 @@
-<p>
-  <h1 align="center"><b>こんにちは👋</b></h1>
-</p>
+<h2 align="left"><b>こんにちは👋</b></h1>
 <br>
-
 
 ```js
 const 僕: suryast = {
