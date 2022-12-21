@@ -5,13 +5,14 @@
 const 僕: suryast = {
   role: 'Software Engineer',
   location: 'Gadigal Land',
-  technologies: {
-    frontEnd: [
-      'Vue','React', 'TypeScript'
+  stack: {
+    frontend: [
+      'Vue', 'React', 'TypeScript'
     ],
-    backEnd: [
-      'Node', 'Express', 'TypeScript', 
-      'Postgres', 'MongoDB', 'AWS'
+    backend: [
+      'Node', 'Express', 'TypeScript',
+      'Kotlin/Java JVM', 'Springboot', 'Rails',
+      'RabbitMQ', 'Postgres', 'MongoDB', 'AWS'
     ]
   }
 }
