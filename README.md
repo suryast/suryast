@@ -4,6 +4,7 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -18,12 +19,20 @@
 ## Current Projects
 
 - 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 89 articles in ID & EN. A2A-enabled, x402 paywall
-- ☪️ **[HalalKah?](https://halalkah.id)** — Halal certification checker. 1.8M+ businesses from BPJPH. OCR scan, province browse, auditor directory
+- ☪️ **[HalalKah?](https://halalkah.id)** — Halal certification checker. 2M+ businesses from BPJPH. OCR scan, province browse, auditor directory
 - ✅ **[LegalKah?](https://legalkah.id)** — OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
-- 🛠️ **[Free AI Agent Skills](https://github.com/suryast/free-ai-agent-skills)** — Open-source `SKILL.md` files for Claude Code, Codex CLI & ChatGPT
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
 - 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 60+ agent listings
 - 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
+
+## Open Source
+
+| Repo | Description | Stars |
+|------|-------------|-------|
+| 🇮🇩 **[indonesia-gov-apis](https://github.com/suryast/indonesia-gov-apis)** | 50 Indonesian government APIs & data sources — BPS, OJK, BPJPH, BMKG + MCP servers | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square) |
+| 🛠️ **[free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills)** | Open-source SKILL.md files for Claude Code, Codex CLI & ChatGPT | ![GitHub stars](https://img.shields.io/github/stars/suryast/free-ai-agent-skills?style=flat-square) |
+| 🔍 **[x402-check](https://github.com/suryast/x402-check)** | CLI + npm lib + GitHub Action + Chrome Extension to validate x402 payment endpoints | ![GitHub stars](https://img.shields.io/github/stars/suryast/x402-check?style=flat-square) |
+| ♿ **[a11y-mcp](https://github.com/suryast/a11y-mcp)** | axe-core based accessibility MCP server for agentic coding workflows | ![GitHub stars](https://img.shields.io/github/stars/suryast/a11y-mcp?style=flat-square) |
 
 ## How I Work
 
