@@ -17,7 +17,8 @@
 
 ## Current Projects
 
-- 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 150+ articles in ID & EN. A2A-enabled, x402 paywall
+- 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 89 articles in ID & EN. A2A-enabled, x402 paywall
+- ☪️ **[HalalKah?](https://halalkah.id)** — Halal certification checker. 1.8M+ businesses from BPJPH. OCR scan, province browse, auditor directory
 - ✅ **[LegalKah?](https://legalkah.id)** — OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
 - 🛠️ **[Free AI Agent Skills](https://github.com/suryast/free-ai-agent-skills)** — Open-source `SKILL.md` files for Claude Code, Codex CLI & ChatGPT
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
