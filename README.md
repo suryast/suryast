@@ -32,6 +32,7 @@
 | 🇮🇩 **[indonesia-gov-apis](https://github.com/suryast/indonesia-gov-apis)** | 50 Indonesian government APIs & data sources — BPS, OJK, BPJPH, BMKG + MCP servers | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square) |
 | 🛠️ **[free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills)** | Open-source SKILL.md files for Claude Code, Codex CLI & ChatGPT | ![GitHub stars](https://img.shields.io/github/stars/suryast/free-ai-agent-skills?style=flat-square) |
 | 🔍 **[x402-check](https://github.com/suryast/x402-check)** | CLI + npm lib + GitHub Action + Chrome Extension to validate x402 payment endpoints | ![GitHub stars](https://img.shields.io/github/stars/suryast/x402-check?style=flat-square) |
+| 🧬 **[agent-taxonomy](https://github.com/suryast/agent-taxonomy)** | Evolutionary taxonomy for AI agents — classify any agent into a biological species with binomial nomenclature | ![GitHub stars](https://img.shields.io/github/stars/suryast/agent-taxonomy?style=flat-square) |
 | ♿ **[a11y-mcp](https://github.com/suryast/a11y-mcp)** | axe-core based accessibility MCP server for agentic coding workflows | ![GitHub stars](https://img.shields.io/github/stars/suryast/a11y-mcp?style=flat-square) |
 
 ## How I Work
