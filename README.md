@@ -18,6 +18,7 @@
 
 ## Current Projects
 
+- 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** – Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
 - 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 89 articles in ID & EN. A2A-enabled, x402 paywall
 - ☪️ **[HalalKah?](https://halalkah.id)** — Halal certification checker. 2M+ businesses from BPJPH. OCR scan, province browse, auditor directory
 - ✅ **[LegalKah?](https://legalkah.id)** — OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
