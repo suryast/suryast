@@ -20,8 +20,8 @@
 
 - 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** – Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
 - 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 89 articles in ID & EN. A2A-enabled, x402 paywall
-- ☪️ **[HalalKah?](https://halalkah.id)** — Halal certification checker. 2M+ businesses from BPJPH. OCR scan, province browse, auditor directory
-- ✅ **[LegalKah?](https://legalkah.id)** — OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
+- ☪️ **[HalalKah?](https://halalkah.id)** — 🇮🇩 Indonesia's Halal certification checker. 2M+ businesses from BPJPH. OCR scan, province browse, auditor directory
+- ✅ **[LegalKah?](https://legalkah.id)** — 🇮🇩 Indonesia's OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
 - 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 60+ agent listings
 - 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
