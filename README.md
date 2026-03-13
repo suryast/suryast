@@ -29,6 +29,7 @@
 ## Published Packages
 
 [![npm: x402-validate](https://img.shields.io/npm/v/x402-validate?style=flat-square&logo=npm&logoColor=white&label=x402-validate)](https://www.npmjs.com/package/x402-validate)
+[![npm: agent-taxonomy](https://img.shields.io/npm/v/agent-taxonomy?style=flat-square&logo=npm&logoColor=white&label=agent-taxonomy)](https://www.npmjs.com/package/agent-taxonomy)
 [![Chrome Web Store: x402 Detector](https://img.shields.io/badge/Chrome_Web_Store-x402_Detector-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/x402-detector/mjaefmlaacmjgfpigilkmnfpjfcckohc)
 
 ## Open Source
