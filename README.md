@@ -26,6 +26,11 @@
 - 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 60+ agent listings
 - 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
 
+## Published Packages
+
+[![npm: x402-validate](https://img.shields.io/npm/v/x402-validate?style=flat-square&logo=npm&logoColor=white&label=x402-validate)](https://www.npmjs.com/package/x402-validate)
+[![Chrome Web Store: x402 Detector](https://img.shields.io/badge/Chrome_Web_Store-x402_Detector-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/x402-detector/mjaefmlaacmjgfpigilkmnfpjfcckohc)
+
 ## Open Source
 
 | Repo | Description | Stars |
