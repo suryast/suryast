@@ -20,6 +20,7 @@
 
 - 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** – Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
 - 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 89 articles in ID & EN. A2A-enabled, x402 paywall
+- 🇮🇩 **[Data Rakyat](https://datarakyat.id)** — Open API for Indonesian government data. One SDK for 11 portals (BPOM, BPJPH, AHU, OJK, and more)
 - ☪️ **[HalalKah?](https://halalkah.id)** — 🇮🇩 Indonesia's Halal certification checker. 2M+ businesses from BPJPH. OCR scan, province browse, auditor directory
 - ✅ **[LegalKah?](https://legalkah.id)** — 🇮🇩 Indonesia's OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
@@ -36,6 +37,7 @@
 
 | Repo | Description | Stars |
 |------|-------------|-------|
+| 🇮🇩 **[indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack)** | Python SDK + MCP server wrapping 11 Indonesian government data portals | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-civic-stack?style=flat-square) |
 | 🇮🇩 **[indonesia-gov-apis](https://github.com/suryast/indonesia-gov-apis)** | 50 Indonesian government APIs & data sources — BPS, OJK, BPJPH, BMKG + MCP servers | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square) |
 | 🧬 **[agent-taxonomy](https://github.com/suryast/agent-taxonomy)** | Evolutionary taxonomy for AI agents — classify any agent into a biological species with binomial nomenclature | ![GitHub stars](https://img.shields.io/github/stars/suryast/agent-taxonomy?style=flat-square) |
 | 🛠️ **[free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills)** | Open-source SKILL.md files for Claude Code, Codex CLI & ChatGPT | ![GitHub stars](https://img.shields.io/github/stars/suryast/free-ai-agent-skills?style=flat-square) |
