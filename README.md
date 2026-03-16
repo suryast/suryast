@@ -51,10 +51,6 @@ I run a **team of 9 specialist AI agents** on [OpenClaw](https://openclaw.ai) 24
 
 The free skills repo? Those came from real operational pain running this system daily.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/suryast)
-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
