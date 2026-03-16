@@ -58,11 +58,11 @@ The free skills repo? Those came from real operational pain running this system 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bypass Geo-Blocking with Cloudflare Workers](https://setiyaputra.me/blog/bypass-geo-blocking-cloudflare-workers)
-- [Monetizing AI Agent Skills: Building a Multi-Channel Sales Funnel](https://setiyaputra.me/blog/monetizing-ai-agent-skills-sales-funnel)
-- [Building Price Intelligence from 118K Grocery Data Points](https://setiyaputra.me/blog/building-price-intelligence-from-grocery-data)
-- [Launching nabung.id: Building a Bilingual Investing Education Site](https://setiyaputra.me/blog/launching-nabung-id-bilingual-investing-education)
 - [Building a2alist.ai: A Protocol Directory for the Agentic Web](https://setiyaputra.me/blog/launching-a2alist-ai-protocol-directory)
+- [x402 as Anti-Spam: Micropayments as a Quality Gate](https://setiyaputra.me/blog/x402-as-anti-spam-micropayments-quality-gate)
+- [Building with A2A: Agent-to-Agent Protocol in Practice](https://setiyaputra.me/blog/building-a2a-protocol-agent-to-agent)
+- [Building Skills for Claude: A Practical Guide](https://setiyaputra.me/blog/building-skills-for-claude-practical-guide)
+- [x402: Monetizing Content for AI Agents with HTTP 402](https://setiyaputra.me/blog/x402-monetizing-content-for-ai-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages
