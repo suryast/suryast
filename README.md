@@ -19,12 +19,12 @@
 ## Current Projects
 
 - 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** – Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
-- 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 89 articles in ID & EN. A2A-enabled, x402 paywall
+- 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 90 articles in ID & EN. A2A-enabled, x402 paywall
 - 🇮🇩 **[Data Rakyat](https://datarakyat.id)** — Open API for Indonesian government data. One SDK, 11 portals, 40 MCP tools. [`pip install indonesia-civic-stack`](https://pypi.org/project/indonesia-civic-stack/) · [`repo`](https://github.com/suryast/indonesia-civic-stack)
 - ☪️ **[HalalKah?](https://halalkah.id)** — 🇮🇩 Indonesia's Halal certification checker. 2M+ businesses from BPJPH. OCR scan, province browse, auditor directory
 - ✅ **[LegalKah?](https://legalkah.id)** — 🇮🇩 Indonesia's OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
-- 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 60+ agent listings
+- 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 73 agent listings
 - 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
 
 ## Published Packages
@@ -47,7 +47,7 @@
 
 ## How I Work
 
-I run a **team of 8 specialist AI agents** on [OpenClaw](https://openclaw.ai) 24/7 — coordinator, coder, researcher, writer, security auditor, trader, teacher, janitor. Each with persistent memory, autonomous cron jobs, and inter-agent delegation.
+I run a **team of 9 specialist AI agents** on [OpenClaw](https://openclaw.ai) 24/7 — coordinator, coder, researcher, writer, security auditor, trader, teacher, janitor. Each with persistent memory, autonomous cron jobs, and inter-agent delegation.
 
 The free skills repo? Those came from real operational pain running this system daily.
 
@@ -58,11 +58,11 @@ The free skills repo? Those came from real operational pain running this system 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [x402 as Anti-Spam: Micropayments as a Quality Gate](https://setiyaputra.me/blog/x402-as-anti-spam-micropayments-quality-gate)
-- [Building with A2A: Agent-to-Agent Protocol in Practice](https://setiyaputra.me/blog/building-a2a-protocol-agent-to-agent)
-- [Building Skills for Claude: A Practical Guide](https://setiyaputra.me/blog/building-skills-for-claude-practical-guide)
-- [Setting Up Tailscale for Your OpenClaw Instance](https://setiyaputra.me/blog/setting-up-tailscale-for-openclaw)
-- [Agent-Friendly Skills: A Portable SKILL.md Standard](https://setiyaputra.me/blog/agent-friendly-skills-portable-standard)
+- [Bypass Geo-Blocking with Cloudflare Workers](https://setiyaputra.me/blog/bypass-geo-blocking-cloudflare-workers)
+- [Monetizing AI Agent Skills: Building a Multi-Channel Sales Funnel](https://setiyaputra.me/blog/monetizing-ai-agent-skills-sales-funnel)
+- [Building Price Intelligence from 118K Grocery Data Points](https://setiyaputra.me/blog/building-price-intelligence-from-grocery-data)
+- [Launching nabung.id: Building a Bilingual Investing Education Site](https://setiyaputra.me/blog/launching-nabung-id-bilingual-investing-education)
+- [Building a2alist.ai: A Protocol Directory for the Agentic Web](https://setiyaputra.me/blog/launching-a2alist-ai-protocol-directory)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages
