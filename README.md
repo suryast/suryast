@@ -18,10 +18,11 @@
 
 ## Current Projects
 
-- 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** – Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
+- 📊 **[TaskFolio](https://ai-job-exposure.setiyaputra.me)** — Task-level AI job exposure analysis for 361 Australian occupations. See exactly which parts of your job AI will affect. [Open source](https://github.com/suryast/task-folio)
+- 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** — Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
 - 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 90 articles in ID & EN. A2A-enabled, x402 paywall
 - 🇮🇩 **[Data Rakyat](https://datarakyat.id)** — Open API for Indonesian government data. One SDK, 11 portals, 40 MCP tools. [`pip install indonesia-civic-stack`](https://pypi.org/project/indonesia-civic-stack/) · [`repo`](https://github.com/suryast/indonesia-civic-stack)
-- ☪️ **[HalalKah?](https://halalkah.id)** — 🇮🇩 Indonesia's Halal certification checker. 2M+ businesses from BPJPH. OCR scan, province browse, auditor directory
+- ☪️ **[HalalKah?](https://halalkah.id)** — 🇮🇩 Indonesia's Halal certification checker. 9.5M+ products from BPJPH. OCR scan, province browse, auditor directory
 - ✅ **[LegalKah?](https://legalkah.id)** — 🇮🇩 Indonesia's OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
 - 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 73 agent listings
@@ -38,7 +39,8 @@
 
 | Repo | Description | Stars |
 |------|-------------|-------|
-| 🇮🇩 **[indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack)** | Python SDK + 40 MCP tools + REST API for 11 Indonesian gov portals. `pip install indonesia-civic-stack` — [datarakyat.id](https://datarakyat.id) · [PyPI](https://pypi.org/project/indonesia-civic-stack/) | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-civic-stack?style=flat-square) |
+| 📊 **[task-folio](https://github.com/suryast/task-folio)** | Task-level AI job exposure for 361 Australian occupations. 6,690 tasks analyzed. Next.js + Cloudflare D1 | ![GitHub stars](https://img.shields.io/github/stars/suryast/task-folio?style=flat-square) |
+| 🇮🇩 **[indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack)** | Python SDK + 40 MCP tools + REST API for 11 Indonesian gov portals. `pip install indonesia-civic-stack` | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-civic-stack?style=flat-square) |
 | 🇮🇩 **[indonesia-gov-apis](https://github.com/suryast/indonesia-gov-apis)** | 50 Indonesian government APIs & data sources — BPS, OJK, BPJPH, BMKG + MCP servers | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square) |
 | 🧬 **[agent-taxonomy](https://github.com/suryast/agent-taxonomy)** | Evolutionary taxonomy for AI agents — classify any agent into a biological species with binomial nomenclature | ![GitHub stars](https://img.shields.io/github/stars/suryast/agent-taxonomy?style=flat-square) |
 | 🛠️ **[free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills)** | Open-source SKILL.md files for Claude Code, Codex CLI & ChatGPT | ![GitHub stars](https://img.shields.io/github/stars/suryast/free-ai-agent-skills?style=flat-square) |
@@ -54,11 +56,11 @@ The free skills repo? Those came from real operational pain running this system 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TaskFolio: Seeing Which Parts of Your Job AI Will Actually Affect](https://setiyaputra.me/blog/taskfolio-ai-job-exposure-tool)
 - [Building a2alist.ai: A Protocol Directory for the Agentic Web](https://setiyaputra.me/blog/launching-a2alist-ai-protocol-directory)
 - [x402 as Anti-Spam: Micropayments as a Quality Gate](https://setiyaputra.me/blog/x402-as-anti-spam-micropayments-quality-gate)
 - [Building with A2A: Agent-to-Agent Protocol in Practice](https://setiyaputra.me/blog/building-a2a-protocol-agent-to-agent)
 - [Building Skills for Claude: A Practical Guide](https://setiyaputra.me/blog/building-skills-for-claude-practical-guide)
-- [x402: Monetizing Content for AI Agents with HTTP 402](https://setiyaputra.me/blog/x402-monetizing-content-for-ai-agents)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages
