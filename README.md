@@ -20,6 +20,7 @@
 
 - 📊 **[TaskFolio](https://ai-job-exposure.setiyaputra.me)** — Task-level AI job exposure analysis for 361 Australian occupations. See exactly which parts of your job AI will affect. [Open source](https://github.com/suryast/task-folio)
 - 🧮 **[Australia CGT Reform Calculator](https://australia-cgt-reform-calculator.setiyaputra.me)** — Interactive calculator and claim-check for Australia's CGT reform debate, combining scenario modelling with official PBO, Treasury, ABS, RBA, and ATO data. [Open source](https://github.com/suryast/australia-cgt-reform)
+- 🧾 **[Budget 2026 Claims Monitor](https://factual-au.setiyaputra.me)** — Primary-source analysis of negative gearing, CGT, and startup-impact claims from Australia's Budget 2026 debate. [Open source](https://github.com/suryast/factual-au)
 - 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** — Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
 - 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 90 articles in ID & EN. A2A-enabled, x402 paywall
 - 🇮🇩 **[Data Rakyat](https://datarakyat.id)** — Open API for Indonesian government data. One SDK, 11 portals, 40 MCP tools. [`pip install indonesia-civic-stack`](https://pypi.org/project/indonesia-civic-stack/) · [`repo`](https://github.com/suryast/indonesia-civic-stack)
@@ -42,6 +43,7 @@
 |------|-------------|-------|
 | 📊 **[task-folio](https://github.com/suryast/task-folio)** | Task-level AI job exposure for 361 Australian occupations. 6,690 tasks analyzed. Next.js + Cloudflare D1 | ![GitHub stars](https://img.shields.io/github/stars/suryast/task-folio?style=flat-square) |
 | 🧮 **[australia-cgt-reform](https://github.com/suryast/australia-cgt-reform)** | Interactive calculator and evidence-led claim-check for Australia's CGT reform debate, with scenario modelling and official government references | ![GitHub stars](https://img.shields.io/github/stars/suryast/australia-cgt-reform?style=flat-square) |
+| 🧾 **[factual-au](https://github.com/suryast/factual-au)** | Primary-source analysis of Budget 2026 claims about negative gearing, CGT, and startup impacts in Australia | ![GitHub stars](https://img.shields.io/github/stars/suryast/factual-au?style=flat-square) |
 | 🇮🇩 **[indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack)** | Python SDK + 40 MCP tools + REST API for 11 Indonesian gov portals. `pip install indonesia-civic-stack` | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-civic-stack?style=flat-square) |
 | 🇮🇩 **[indonesia-gov-apis](https://github.com/suryast/indonesia-gov-apis)** | 50 Indonesian government APIs & data sources — BPS, OJK, BPJPH, BMKG + MCP servers | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square) |
 | 🧬 **[agent-taxonomy](https://github.com/suryast/agent-taxonomy)** | Evolutionary taxonomy for AI agents — classify any agent into a biological species with binomial nomenclature | ![GitHub stars](https://img.shields.io/github/stars/suryast/agent-taxonomy?style=flat-square) |
