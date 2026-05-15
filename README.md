@@ -30,7 +30,7 @@
 - ✅ **[LegalKah?](https://legalkah.id)** — 🇮🇩 Indonesia's OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
 - 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 73 agent listings
 
-## Recent experiments
+## Recent Experiments
 - 📊 **[TaskFolio](https://ai-job-exposure.setiyaputra.me)** — Task-level AI job exposure analysis for 361 Australian occupations. See exactly which parts of your job AI will affect. [Open source](https://github.com/suryast/task-folio)
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
 - 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
