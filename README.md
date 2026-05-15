@@ -18,17 +18,21 @@
 
 ## Current Projects
 
-- 📊 **[TaskFolio](https://ai-job-exposure.setiyaputra.me)** — Task-level AI job exposure analysis for 361 Australian occupations. See exactly which parts of your job AI will affect. [Open source](https://github.com/suryast/task-folio)
 - 🧮 **[Australia CGT Reform Calculator](https://australia-cgt-reform-calculator.setiyaputra.me)** — Interactive calculator and claim-check for Australia's CGT reform debate, combining scenario modelling with official PBO, Treasury, ABS, RBA, and ATO data. [Open source](https://github.com/suryast/australia-cgt-reform)
 - 🧾 **[Budget 2026 Claims Monitor](https://factual-au.setiyaputra.me)** — Primary-source analysis of negative gearing, CGT, and startup-impact claims from Australia's Budget 2026 debate. [Open source](https://github.com/suryast/factual-au)
 - 🎯 **[Australia's Budget 2026 Matrix](https://budget-2026-game-theory-matrix.setiyaputra.me/)** — Scenario matrix for Budget 2026 CGT and negative gearing outcomes across investor archetypes, life stages, and policy branches. [Open source](https://github.com/suryast/budget-2026-matrix)
+
+## Ongoing Projects
 - 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** — Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
-- 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 90 articles in ID & EN. A2A-enabled, x402 paywall
 - 🇮🇩 **[Data Rakyat](https://datarakyat.id)** — Open API for Indonesian government data. One SDK, 11 portals, 40 MCP tools. [`pip install indonesia-civic-stack`](https://pypi.org/project/indonesia-civic-stack/) · [`repo`](https://github.com/suryast/indonesia-civic-stack)
+- 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 90 articles in ID & EN. A2A-enabled, x402 paywall
 - ☪️ **[HalalKah?](https://halalkah.id)** — 🇮🇩 Indonesia's Halal certification checker. 9.5M+ products from BPJPH. OCR scan, province browse, auditor directory
 - ✅ **[LegalKah?](https://legalkah.id)** — 🇮🇩 Indonesia's OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
-- 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
 - 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 73 agent listings
+
+## Recent experiments
+- 📊 **[TaskFolio](https://ai-job-exposure.setiyaputra.me)** — Task-level AI job exposure analysis for 361 Australian occupations. See exactly which parts of your job AI will affect. [Open source](https://github.com/suryast/task-folio)
+- 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
 - 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
 
 ## Published Packages
