@@ -68,11 +68,11 @@ The free skills repo? Those came from real operational pain running this system 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Compiling a Brag Doc: Engineering Growth Evidence in the Agentic IDE Era](https://setiyaputra.me/blog/compiling-a-brag-doc-engineering-growth-evidence-in-the-agentic-ide-era)
+- [What Factual AU's Narrative Clusters Reveal About Budget 2026 Discourse](https://setiyaputra.me/blog/budget-2026-recurring-narratives-from-factual-au)
+- [A Budget 2026 Matrix for Real Investor Decisions](https://setiyaputra.me/blog/budget-2026-claims-monitor-matrix)
 - [TaskFolio: Seeing Which Parts of Your Job AI Will Actually Affect](https://setiyaputra.me/blog/taskfolio-ai-job-exposure-tool)
 - [Building a2alist.ai: A Protocol Directory for the Agentic Web](https://setiyaputra.me/blog/launching-a2alist-ai-protocol-directory)
-- [x402 as Anti-Spam: Micropayments as a Quality Gate](https://setiyaputra.me/blog/x402-as-anti-spam-micropayments-quality-gate)
-- [Building with A2A: Agent-to-Agent Protocol in Practice](https://setiyaputra.me/blog/building-a2a-protocol-agent-to-agent)
-- [Building Skills for Claude: A Practical Guide](https://setiyaputra.me/blog/building-skills-for-claude-practical-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages
