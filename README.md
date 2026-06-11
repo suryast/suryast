@@ -18,6 +18,7 @@
 
 ## Current Projects
 
+- 🦺 **[Safe Working Holiday Australia](https://safeworkingholidayaustralia.com)** — Independent safety and rights hub for Australia Working Holiday Makers, with multilingual guides for scam pressure, pay rights, visa threats, tax/super, and official help routes. Public launch: July 1, 2026.
 - 🧮 **[Australia CGT Reform Calculator](https://australia-cgt-reform-calculator.setiyaputra.me)** — Interactive calculator and claim-check for Australia's CGT reform debate, combining scenario modelling with official PBO, Treasury, ABS, RBA, and ATO data. [Open source](https://github.com/suryast/australia-cgt-reform)
 - 🧾 **[Budget 2026 Claims Monitor](https://factual-au.setiyaputra.me)** — Primary-source analysis of negative gearing, CGT, and startup-impact claims from Australia's Budget 2026 debate. [Open source](https://github.com/suryast/factual-au)
 - 🗺️ **[Budget 2026 Wardley Map](https://budget-2026-wardley-map.setiyaputra.me/federal-state)** — Interactive Wardley map of Australia's federal-state budget machinery, showing how visible commitments depend on delivery systems, shared infrastructure, and political coordination. [Open source](https://github.com/suryast/budget-2026-wardley-map)
