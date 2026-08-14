@@ -62,18 +62,18 @@
 
 ## How I Work
 
-I run a **team of 9 specialist AI agents** on [OpenClaw](https://openclaw.ai) 24/7 — coordinator, coder, researcher, writer, security auditor, trader, teacher, janitor. Each with persistent memory, autonomous cron jobs, and inter-agent delegation.
+I run a **team of 9 specialist AI agents** on Hermes Agent 24/7 — coordinator, coder, researcher, writer, security auditor, trader, teacher, janitor. Each with persistent memory, autonomous cron jobs, and inter-agent delegation.
 
 The free skills repo? Those came from real operational pain running this system daily.
 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling a Brag Doc: Engineering Growth Evidence in the Agentic IDE Era](https://setiyaputra.me/blog/compiling-a-brag-doc-engineering-growth-evidence-in-the-agentic-ide-era)
-- [What Factual AU's Narrative Clusters Reveal About Budget 2026 Discourse](https://setiyaputra.me/blog/budget-2026-recurring-narratives-from-factual-au)
-- [A Budget 2026 Matrix for Real Investor Decisions](https://setiyaputra.me/blog/budget-2026-claims-monitor-matrix)
-- [TaskFolio: Seeing Which Parts of Your Job AI Will Actually Affect](https://setiyaputra.me/blog/taskfolio-ai-job-exposure-tool)
-- [Building a2alist.ai: A Protocol Directory for the Agentic Web](https://setiyaputra.me/blog/launching-a2alist-ai-protocol-directory)
+- [How Cron Prompts Evolved After Migrating from OpenClaw to Hermes](https://setiyaputra.me/blog/how-cron-prompts-evolved-from-openclaw-to-hermes/)
+- [From OpenClaw to Hermes: How I Retired an Agent Home Without Losing the Archive](https://setiyaputra.me/blog/openclaw-to-hermes-migration-lessons/)
+- [Compiling a Brag Doc: Engineering Growth Evidence in the Agentic IDE Era](https://setiyaputra.me/blog/compiling-a-brag-doc-engineering-growth-evidence-in-the-agentic-ide-era/)
+- [What Factual AU's Narrative Clusters Reveal About Budget 2026 Discourse](https://setiyaputra.me/blog/budget-2026-recurring-narratives-from-factual-au/)
+- [A Budget 2026 Matrix for Real Investor Decisions](https://setiyaputra.me/blog/budget-2026-claims-monitor-matrix/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages
