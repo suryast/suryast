@@ -62,7 +62,7 @@
 
 ## How I Work
 
-I run a **team of 9 specialist AI agents** on Hermes Agent 24/7 — coordinator, coder, researcher, writer, security auditor, trader, teacher, janitor. Each with persistent memory, autonomous cron jobs, and inter-agent delegation.
+I run a **team of 8 specialist AI agents** on Hermes Agent 24/7 — coordinator, coder, researcher, writer, security auditor, trader, teacher, janitor. Each with persistent memory, autonomous cron jobs, and inter-agent delegation.
 
 The free skills repo? Those came from real operational pain running this system daily.
 
