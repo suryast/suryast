@@ -19,10 +19,6 @@
 ## Current Projects
 
 - 🦺 **[Safe Working Holiday Australia](https://safeworkingholidayaustralia.com)** — Independent safety and rights hub for Australia Working Holiday Makers, with multilingual guides for scam pressure, pay rights, visa threats, tax/super, and official help routes. Public launch: July 1, 2026.
-- 🧮 **[Australia CGT Reform Calculator](https://australia-cgt-reform-calculator.setiyaputra.me)** — Interactive calculator and claim-check for Australia's CGT reform debate, combining scenario modelling with official PBO, Treasury, ABS, RBA, and ATO data. [Open source](https://github.com/suryast/australia-cgt-reform)
-- 🧾 **[Budget 2026 Claims Monitor](https://factual-au.setiyaputra.me)** — Primary-source analysis of negative gearing, CGT, and startup-impact claims from Australia's Budget 2026 debate. [Open source](https://github.com/suryast/factual-au)
-- 🗺️ **[Budget 2026 Wardley Map](https://budget-2026-wardley-map.setiyaputra.me/federal-state)** — Interactive Wardley map of Australia's federal-state budget machinery, showing how visible commitments depend on delivery systems, shared infrastructure, and political coordination. [Open source](https://github.com/suryast/budget-2026-wardley-map)
-- 🎯 **[Australia's Budget 2026 Matrix](https://budget-2026-game-theory-matrix.setiyaputra.me/)** — Scenario matrix for Budget 2026 CGT and negative gearing outcomes across investor archetypes, life stages, and policy branches. [Open source](https://github.com/suryast/budget-2026-matrix)
 
 ## Ongoing Projects
 - 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** — Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
@@ -36,6 +32,10 @@
 - 📊 **[TaskFolio](https://ai-job-exposure.setiyaputra.me)** — Task-level AI job exposure analysis for 361 Australian occupations. See exactly which parts of your job AI will affect. [Open source](https://github.com/suryast/task-folio)
 - 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
 - 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
+- 🧮 **[Australia CGT Reform Calculator](https://australia-cgt-reform-calculator.setiyaputra.me)** — Interactive calculator and claim-check for Australia's CGT reform debate, combining scenario modelling with official PBO, Treasury, ABS, RBA, and ATO data. [Open source](https://github.com/suryast/australia-cgt-reform)
+- 🧾 **[Budget 2026 Claims Monitor](https://factual-au.setiyaputra.me)** — Primary-source analysis of negative gearing, CGT, and startup-impact claims from Australia's Budget 2026 debate. [Open source](https://github.com/suryast/factual-au)
+- 🗺️ **[Budget 2026 Wardley Map](https://budget-2026-wardley-map.setiyaputra.me/federal-state)** — Interactive Wardley map of Australia's federal-state budget machinery, showing how visible commitments depend on delivery systems, shared infrastructure, and political coordination. [Open source](https://github.com/suryast/budget-2026-wardley-map)
+- 🎯 **[Australia's Budget 2026 Matrix](https://budget-2026-game-theory-matrix.setiyaputra.me/)** — Scenario matrix for Budget 2026 CGT and negative gearing outcomes across investor archetypes, life stages, and policy branches. [Open source](https://github.com/suryast/budget-2026-matrix)
 
 ## Published Packages
 
