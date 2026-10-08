@@ -1,4 +1,6 @@
-# Hi, I'm Surya
+# Hi, I'm Surya 👋🏼
+
+📍 **Sydney, Australia** | 🤖 **AI Agent Engineer** | 🚀 **Indie Hacker**
 
 I'm a software developer in Sydney. I build agent tools and public-interest projects around government data, worker rights, and financial education.
 
@@ -12,26 +14,26 @@ I care about infrastructure security, systems that fail gracefully, and software
 
 ## Featured products
 
-- [Safe Working Holiday Australia](https://safeworkingholidayaustralia.com): Independent safety and rights guides for Working Holiday Makers, covering scams, pay, visa threats, tax, super, and official help routes.
-- [Data Rakyat](https://datarakyat.id): An open API for Indonesian government data.
-- [nabung.id](https://nabung.id): Indonesian investing education in Bahasa Indonesia and English.
-- [a2alist.ai](https://a2alist.ai): A directory of agents and services using A2A and x402 protocols.
+- 🦺 [Safe Working Holiday Australia](https://safeworkingholidayaustralia.com): Independent safety and rights guides for Working Holiday Makers, covering scams, pay, visa threats, tax, super, and official help routes.
+- 🇮🇩 [Data Rakyat](https://datarakyat.id): An open API for Indonesian government data.
+- 🇮🇩 [nabung.id](https://nabung.id): Indonesian investing education in Bahasa Indonesia and English.
+- 🔗 [a2alist.ai](https://a2alist.ai): A directory of agents and services using A2A and x402 protocols.
 
 ## Open source
 
-- [indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack): Python SDK, REST API, and MCP tools for Indonesian government data.
-- [x402-check](https://github.com/suryast/x402-check): Validate x402 payment endpoints with a CLI, npm library, GitHub Action, or browser extension.
-- [a11y-mcp](https://github.com/suryast/a11y-mcp): An axe-core accessibility MCP server for agent-assisted coding workflows.
-- [free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills): Reusable SKILL.md files for Claude Code, Codex CLI, and ChatGPT.
+- 🇮🇩 [indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack): Python SDK, REST API, and MCP tools for Indonesian government data.
+- 🔍 [x402-check](https://github.com/suryast/x402-check): Validate x402 payment endpoints with a CLI, npm library, GitHub Action, or browser extension.
+- ♿ [a11y-mcp](https://github.com/suryast/a11y-mcp): An axe-core accessibility MCP server for agent-assisted coding workflows.
+- 🛠️ [free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills): Reusable SKILL.md files for Claude Code, Codex CLI, and ChatGPT.
 
 ## Other projects
 
-- [TaskFolio](https://ai-job-exposure.setiyaputra.me): Task-level analysis of AI exposure in Australian occupations. [Source](https://github.com/suryast/task-folio).
-- Australian policy tools: [Budget claims monitor](https://factual-au.setiyaputra.me), [CGT calculator](https://australia-cgt-reform-calculator.setiyaputra.me), [federal-state Wardley map](https://budget-2026-wardley-map.setiyaputra.me/federal-state), and [Budget scenario matrix](https://budget-2026-game-theory-matrix.setiyaputra.me/).
-- [HalalKah?](https://halalkah.id) and [LegalKah?](https://legalkah.id): Indonesian halal certification and financial company legality checkers.
-- [Agent Taxonomy](https://agent-taxonomist.dev/): A naming and classification experiment for AI agents.
-- [The AI Cemetery](https://theaicemetery.com): AI product case files covering shutdowns, acquisitions, and ongoing products.
-- [skillpacks.dev](https://skillpacks.dev): AI agent skill packs for security, memory, and planning.
+- 📊 [TaskFolio](https://ai-job-exposure.setiyaputra.me): Task-level analysis of AI exposure in Australian occupations. [Source](https://github.com/suryast/task-folio).
+- Australian policy tools: 🧾 [Budget claims monitor](https://factual-au.setiyaputra.me), 🧮 [CGT calculator](https://australia-cgt-reform-calculator.setiyaputra.me), 🗺️ [federal-state Wardley map](https://budget-2026-wardley-map.setiyaputra.me/federal-state), and 🎯 [Budget scenario matrix](https://budget-2026-game-theory-matrix.setiyaputra.me/).
+- ☪️ [HalalKah?](https://halalkah.id) and ✅ [LegalKah?](https://legalkah.id): Indonesian halal certification and financial company legality checkers.
+- 🧬 [Agent Taxonomy](https://agent-taxonomist.dev/): A naming and classification experiment for AI agents.
+- 💀 [The AI Cemetery](https://theaicemetery.com): AI product case files covering shutdowns, acquisitions, and ongoing products.
+- 💎 [skillpacks.dev](https://skillpacks.dev): AI agent skill packs for security, memory, and planning.
 
 ## Published packages
 
@@ -57,7 +59,7 @@ I also use agent-assisted tools to turn Git history and architecture decisions i
 
 ## Languages
 
-English · Bahasa Indonesia · 日本語
+🇬🇧 English · 🇮🇩 Bahasa Indonesia · 🇯🇵 日本語
 
 ## Connect
 
