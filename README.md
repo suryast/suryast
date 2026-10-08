@@ -1,72 +1,51 @@
-# Hey, I'm Surya 👋🏼
+# Hi, I'm Surya
 
-📍 **Sydney, Australia** | 🤖 **AI Agent Engineer** | 🚀 **Indie Hacker**
+I'm a software developer in Sydney. I build agent tools and public-interest projects around government data, worker rights, and financial education.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+## Professional work
 
-> I build at the intersection of **AI agents**, **compliance tools**, and **products that solve boring-but-painful problems** across APAC. I run a team of 8 specialist AI agents 24/7 in production — the skills repo came from real operational pain.
+I currently build digital products in the disability services industry, mostly with Vue, TypeScript, Kotlin with Spring Boot, and MongoDB.
 
-## Current Projects
+Previously, I worked at an Indonesian enterprise SaaS company and on Australian travel media content platforms. I've shipped JAMstack sites, headless WordPress projects, and cloud infrastructure tooling.
 
-- 🦺 **[Safe Working Holiday Australia](https://safeworkingholidayaustralia.com)** — Independent safety and rights hub for Australia Working Holiday Makers, with multilingual guides for scam pressure, pay rights, visa threats, tax/super, and official help routes. Public launch: July 1, 2026.
+I care about infrastructure security, systems that fail gracefully, and software that stays maintainable after launch. More background is on my [about page](https://setiyaputra.me/about/).
 
-## Ongoing Projects
-- 🧬 **[Agent Taxonomy](https://agent-taxonomist.dev/)** — Receive a formal binomial name, rarity tier, evolution stage, and a portrait prompt for your AI agent
-- 🇮🇩 **[Data Rakyat](https://datarakyat.id)** — Open API for Indonesian government data. One SDK, 11 portals, 40 MCP tools. [`pip install indonesia-civic-stack`](https://pypi.org/project/indonesia-civic-stack/) · [`repo`](https://github.com/suryast/indonesia-civic-stack)
-- 🇮🇩 **[nabung.id](https://nabung.id)** — Indonesian passive investing education. 90 articles in ID & EN. A2A-enabled, x402 paywall
-- ☪️ **[HalalKah?](https://halalkah.id)** — 🇮🇩 Indonesia's Halal certification checker. 9.5M+ products from BPJPH. OCR scan, province browse, auditor directory
-- ✅ **[LegalKah?](https://legalkah.id)** — 🇮🇩 Indonesia's OJK financial company legality checker. "AMAN or AWAS?" 1,200+ entities. Mobile app + web
-- 🔗 **[a2alist.ai](https://a2alist.ai)** — x402 + A2A protocol directory. 73 agent listings
+## Featured products
 
-## Recent Experiments
-- 📊 **[TaskFolio](https://ai-job-exposure.setiyaputra.me)** — Task-level AI job exposure analysis for 361 Australian occupations. See exactly which parts of your job AI will affect. [Open source](https://github.com/suryast/task-folio)
-- 💀 **[The AI Cemetery](https://theaicemetery.com)** — Directory of dead & dying AI products with post-mortem autopsies
-- 💎 **[skillpacks.dev](https://skillpacks.dev)** — Premium AI agent skill packs for security, memory & planning
-- 🧮 **[Australia CGT Reform Calculator](https://australia-cgt-reform-calculator.setiyaputra.me)** — Interactive calculator and claim-check for Australia's CGT reform debate, combining scenario modelling with official PBO, Treasury, ABS, RBA, and ATO data. [Open source](https://github.com/suryast/australia-cgt-reform)
-- 🧾 **[Budget 2026 Claims Monitor](https://factual-au.setiyaputra.me)** — Primary-source analysis of negative gearing, CGT, and startup-impact claims from Australia's Budget 2026 debate. [Open source](https://github.com/suryast/factual-au)
-- 🗺️ **[Budget 2026 Wardley Map](https://budget-2026-wardley-map.setiyaputra.me/federal-state)** — Interactive Wardley map of Australia's federal-state budget machinery, showing how visible commitments depend on delivery systems, shared infrastructure, and political coordination. [Open source](https://github.com/suryast/budget-2026-wardley-map)
-- 🎯 **[Australia's Budget 2026 Matrix](https://budget-2026-game-theory-matrix.setiyaputra.me/)** — Scenario matrix for Budget 2026 CGT and negative gearing outcomes across investor archetypes, life stages, and policy branches. [Open source](https://github.com/suryast/budget-2026-matrix)
+- [Safe Working Holiday Australia](https://safeworkingholidayaustralia.com): Independent safety and rights guides for Working Holiday Makers, covering scams, pay, visa threats, tax, super, and official help routes.
+- [Data Rakyat](https://datarakyat.id): An open API for Indonesian government data.
+- [nabung.id](https://nabung.id): Indonesian investing education in Bahasa Indonesia and English.
+- [a2alist.ai](https://a2alist.ai): A directory of agents and services using A2A and x402 protocols.
 
-## Published Packages
+## Open source
 
-[![PyPI: indonesia-civic-stack](https://img.shields.io/pypi/v/indonesia-civic-stack?style=flat-square&logo=pypi&logoColor=white&label=indonesia-civic-stack)](https://pypi.org/project/indonesia-civic-stack/)
-[![npm: x402-validate](https://img.shields.io/npm/v/x402-validate?style=flat-square&logo=npm&logoColor=white&label=x402-validate)](https://www.npmjs.com/package/x402-validate)
-[![npm: agent-taxonomy](https://img.shields.io/npm/v/agent-taxonomy?style=flat-square&logo=npm&logoColor=white&label=agent-taxonomy)](https://www.npmjs.com/package/agent-taxonomy)
-[![Chrome Web Store: x402 Detector](https://img.shields.io/badge/Chrome_Web_Store-x402_Detector-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/x402-detector/mjaefmlaacmjgfpigilkmnfpjfcckohc)
+- [indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack): Python SDK, REST API, and MCP tools for Indonesian government data.
+- [x402-check](https://github.com/suryast/x402-check): Validate x402 payment endpoints with a CLI, npm library, GitHub Action, or browser extension.
+- [a11y-mcp](https://github.com/suryast/a11y-mcp): An axe-core accessibility MCP server for agent-assisted coding workflows.
+- [free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills): Reusable SKILL.md files for Claude Code, Codex CLI, and ChatGPT.
 
-## Open Source
+## Other projects
 
-| Repo | Description | Stars |
-|------|-------------|-------|
-| 📊 **[task-folio](https://github.com/suryast/task-folio)** | Task-level AI job exposure for 361 Australian occupations. 6,690 tasks analyzed. Next.js + Cloudflare D1 | ![GitHub stars](https://img.shields.io/github/stars/suryast/task-folio?style=flat-square) |
-| 🧮 **[australia-cgt-reform](https://github.com/suryast/australia-cgt-reform)** | Interactive calculator and evidence-led claim-check for Australia's CGT reform debate, with scenario modelling and official government references | ![GitHub stars](https://img.shields.io/github/stars/suryast/australia-cgt-reform?style=flat-square) |
-| 🧾 **[factual-au](https://github.com/suryast/factual-au)** | Primary-source analysis of Budget 2026 claims about negative gearing, CGT, and startup impacts in Australia | ![GitHub stars](https://img.shields.io/github/stars/suryast/factual-au?style=flat-square) |
-| 🗺️ **[budget-2026-wardley-map](https://github.com/suryast/budget-2026-wardley-map)** | Interactive Wardley map for Australia's federal-state budget architecture, tracing commitments into delivery dependencies and coordination risk | ![GitHub stars](https://img.shields.io/github/stars/suryast/budget-2026-wardley-map?style=flat-square) |
-| 🎯 **[budget-2026-matrix](https://github.com/suryast/budget-2026-matrix)** | Scenario matrix for Budget 2026 CGT and negative gearing outcomes across investor archetypes, life stages, and policy branches | ![GitHub stars](https://img.shields.io/github/stars/suryast/budget-2026-matrix?style=flat-square) |
-| 🇮🇩 **[indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack)** | Python SDK + 40 MCP tools + REST API for 11 Indonesian gov portals. `pip install indonesia-civic-stack` | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-civic-stack?style=flat-square) |
-| 🇮🇩 **[indonesia-gov-apis](https://github.com/suryast/indonesia-gov-apis)** | 50 Indonesian government APIs & data sources — BPS, OJK, BPJPH, BMKG + MCP servers | ![GitHub stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square) |
-| 🧬 **[agent-taxonomy](https://github.com/suryast/agent-taxonomy)** | Evolutionary taxonomy for AI agents — classify any agent into a biological species with binomial nomenclature | ![GitHub stars](https://img.shields.io/github/stars/suryast/agent-taxonomy?style=flat-square) |
-| 🛠️ **[free-ai-agent-skills](https://github.com/suryast/free-ai-agent-skills)** | Open-source SKILL.md files for Claude Code, Codex CLI & ChatGPT | ![GitHub stars](https://img.shields.io/github/stars/suryast/free-ai-agent-skills?style=flat-square) |
-| 🔍 **[x402-check](https://github.com/suryast/x402-check)** | CLI + npm lib + GitHub Action + Chrome Extension to validate x402 payment endpoints | ![GitHub stars](https://img.shields.io/github/stars/suryast/x402-check?style=flat-square) |
-| ♿ **[a11y-mcp](https://github.com/suryast/a11y-mcp)** | axe-core based accessibility MCP server for agentic coding workflows | ![GitHub stars](https://img.shields.io/github/stars/suryast/a11y-mcp?style=flat-square) |
+- [TaskFolio](https://ai-job-exposure.setiyaputra.me): Task-level analysis of AI exposure in Australian occupations. [Source](https://github.com/suryast/task-folio).
+- Australian policy tools: [Budget claims monitor](https://factual-au.setiyaputra.me), [CGT calculator](https://australia-cgt-reform-calculator.setiyaputra.me), [federal-state Wardley map](https://budget-2026-wardley-map.setiyaputra.me/federal-state), and [Budget scenario matrix](https://budget-2026-game-theory-matrix.setiyaputra.me/).
+- [HalalKah?](https://halalkah.id) and [LegalKah?](https://legalkah.id): Indonesian halal certification and financial company legality checkers.
+- [Agent Taxonomy](https://agent-taxonomist.dev/): A naming and classification experiment for AI agents.
+- [The AI Cemetery](https://theaicemetery.com): AI product case files covering shutdowns, acquisitions, and ongoing products.
+- [skillpacks.dev](https://skillpacks.dev): AI agent skill packs for security, memory, and planning.
 
-## How I Work
+## Published packages
 
-I run a **team of 8 specialist AI agents** on Hermes Agent 24/7 — coordinator, coder, researcher, writer, security auditor, trader, teacher, janitor. Each with persistent memory, autonomous cron jobs, and inter-agent delegation.
+- PyPI: [indonesia-civic-stack](https://pypi.org/project/indonesia-civic-stack/)
+- npm: [x402-validate](https://www.npmjs.com/package/x402-validate) · [agent-taxonomy](https://www.npmjs.com/package/agent-taxonomy)
+- Chrome Web Store: [x402 Detector](https://chromewebstore.google.com/detail/x402-detector/mjaefmlaacmjgfpigilkmnfpjfcckohc)
 
-The free skills repo? Those came from real operational pain running this system daily.
+## How I work
 
-## Latest Blog Posts
+I use Hermes-based agent workflows for implementation, research, and routine maintenance. Changes still need tests, security review, and verification against the deployed result.
+
+I also use agent-assisted tools to turn Git history and architecture decisions into engineering notes. I keep journal decisions and growth-review judgments human-owned. [Workflow write-up](https://setiyaputra.me/blog/compiling-a-brag-doc-engineering-growth-evidence-in-the-agentic-ide-era/).
+
+## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How Cron Prompts Evolved After Migrating from OpenClaw to Hermes](https://setiyaputra.me/blog/how-cron-prompts-evolved-from-openclaw-to-hermes/)
@@ -78,9 +57,8 @@ The free skills repo? Those came from real operational pain running this system 
 
 ## Languages
 
-🇬🇧 English · 🇮🇩 Bahasa Indonesia · 🇯🇵 日本語
+English · Bahasa Indonesia · 日本語
 
 ## Connect
 
-[![Blog](https://img.shields.io/badge/-setiyaputra.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://setiyaputra.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryast)
+[Personal blog](https://setiyaputra.me) · [LinkedIn](https://linkedin.com/in/suryast)
