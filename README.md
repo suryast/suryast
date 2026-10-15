@@ -21,6 +21,7 @@ I care about infrastructure security, systems that fail gracefully, and software
 
 ## Open source
 
+- ⚙️ [agent-dotenv](https://github.com/suryast/agent-dotenv): Write agent rules, identity, and skills once, then build them for AGENTS.md, Claude Code, Cursor, and other coding agents.
 - 🇮🇩 [indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack): Python SDK, REST API, and MCP tools for Indonesian government data.
 - 🔍 [x402-check](https://github.com/suryast/x402-check): Validate x402 payment endpoints with a CLI, npm library, GitHub Action, or browser extension.
 - ♿ [a11y-mcp](https://github.com/suryast/a11y-mcp): An axe-core accessibility MCP server for agent-assisted coding workflows.
