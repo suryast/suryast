@@ -1,6 +1,6 @@
 # Hi, I'm Surya 👋🏼
 
-📍 **Sydney, Australia** | 🤖 **AI Agent Engineer** | 🚀 **Indie Hacker**
+📍 **Sydney, Australia** | 🤖 **AI Engineer** | 🚀 **Indie Hacker**
 
 I'm a software developer in Sydney. I build agent tools and public-interest projects around government data, worker rights, and financial education.
 
